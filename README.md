@@ -9,4 +9,4 @@ You just have to press `CTRL` + a number from `0`-`9` to copy the highlighted te
 If you want to paste it back in you just have to press `INSERT` + a number from `0`-`9`
 
 ## Download
-You can download the program [here](https://github.com/Fusix/MultipleClipboard/blob/master/MultipleClipboard.jar).
+You can download the program [here](https://github.com/Fusix/MultipleClipboard/blob/master/MultipleClipboard.jar?raw=true).
